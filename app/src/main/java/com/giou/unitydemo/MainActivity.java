@@ -76,6 +76,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             mClientInfoList.add(client);
         }
 
+        //第一次修改
+
 //        for (int i = 0; i < 20; i++) {
 //            ClientInfo client = new ClientInfo();
 //            client.setClientId(i+"_号");
